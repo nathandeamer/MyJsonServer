@@ -1,0 +1,14 @@
+{
+  "citys": [
+    { "id": 1, "title": "New York"}
+  ],
+  "attractions": [
+    { "id": 1, "title": "Empire State Building Observatory", "cityId": 1, "type":"OBSERVATORY", "rating": 4.5},
+    { "id": 2, "title": "Top of the Rock Observation Deck", "cityId": 1, "type":"OBSERVATORY", "rating": 4.2},
+    { "id": 3, "title": "9/11 Memorial & Musuem", "cityId": 1, "type":"MUSEUM", "rating": 4.9},
+    { "id": 4, "title": "Museum of modern art", "cityId": 1, "type":"MUSEUM", "rating": 3.9},
+    { "id": 5, "title": "Metropolitan Museum of Art", "cityId": 1, "type":"MUSEUM", "rating": 4.1},
+    { "id": 6, "title": "American Museum of Natural History", "cityId": 1, "type":"MUSEUM", "rating": 3.5},
+    { "id": 7, "title": "Museum of Ice Cream", "cityId": 1, "type":"MUSEUM", "rating": 5.0}
+  ]
+}
